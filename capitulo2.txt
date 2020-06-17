@@ -1,5 +1,6 @@
-Capitulo 2 for remote git repository.
+CAPITULO 2
 
+Este es ahora el primer cambio generado en la rama ingles. 
 first commit to second chapter
 
 second change to second chapter

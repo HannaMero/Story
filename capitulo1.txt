@@ -1,3 +1,5 @@
-Capitulo 1  
+CHAPTER ONE. 
 
-First change made on this chapter.  Day 85 of lock down. 
+El primer cambio en este capitulo de la rama english. 
+
+o minuscula para entrar en nodo insertar pero no a la izquierda, sino en nueva lineaa abajo. O mayuscula hace lo miusmo pero en una linea arriba. 

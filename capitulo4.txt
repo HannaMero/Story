@@ -1,5 +1,12 @@
 Capitulo 4
 
+primer cambio en capitulo 4 usando vim. en rama english. 
+Ya me estoy cansando pero hay todavia mucho por aprender. 
+
 For git remote story example. 
 
 Need to figure out and learn more vim commands. The basic ones are starting to fall short. 
+
+vim commands?
+Operator # Position. 
+
