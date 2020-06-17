@@ -2,3 +2,5 @@ Capitulo 3
 
 Remote Git hub example 3.
 using vim 
+
+First change on chapter 3. This first change on chapter 3 will also be part of commit one on remote not the local repository. 

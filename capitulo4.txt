@@ -1,3 +1,5 @@
 Capitulo 4
 
 For git remote story example. 
+
+Need to figure out and learn more vim commands. The basic ones are starting to fall short. 
